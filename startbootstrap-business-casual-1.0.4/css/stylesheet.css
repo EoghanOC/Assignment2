@@ -1,0 +1,14 @@
+/*--Change to body--*/
+body{
+	background-image: url(../../images/walkway.jpg);
+}
+
+.title{
+	height: 150%;
+	text-align: center;
+	vertical-align: top;
+}
+
+.carousel-inner{
+	max-height: 700px;
+}

@@ -1,0 +1,33 @@
+nav{
+	font-size: 10px;
+}
+
+#footer{
+ 	height: 5%;
+	text-align: center;
+	font-size: 9px;
+	padding: 0%;
+	position: static;
+	bottom: 0%;
+	width: 100%;
+}
+
+.foot{
+	margin: 0%;
+	padding: 0%;
+}
+
+#ocar{
+	text-decoration: none;
+	color: #FF7275;
+}
+
+#title{
+		text-align: center;
+		font-weight: bolder;
+}
+
+body{
+	background-image:none;
+	background-color: #C7C7C7;
+}
